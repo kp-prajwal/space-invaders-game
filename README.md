@@ -10,6 +10,11 @@ The game is over when any one of the aliens approach the level of the spaceship.
 ## Screenshots :
 ![image](https://user-images.githubusercontent.com/51396834/83125772-94142000-a0f5-11ea-89cc-b11f66c81387.png)
 
-This is a gif which shows the movement of the spaceship and the aliens. Slo-mo included for effects.
-![Alt Text](https://imgflip.com/4340pq.gif)
+### This is a gif which shows the movement of the spaceship and the aliens. 
+![See below](ui.gif)
+
+### Game Over :
+![image](https://user-images.githubusercontent.com/51396834/83128396-fde1f900-a0f8-11ea-8692-e7bc4401d7df.png)
+
+
 
